@@ -43,7 +43,7 @@ class _TodoListScreenState extends State<TodoListScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('To-Do List'),
+        title: Text('To-Do List Uygulamam'),
       ),
       body: Column(
         children: [
